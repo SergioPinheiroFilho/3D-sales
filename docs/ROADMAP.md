@@ -8,7 +8,7 @@
 | 1 | Preparar infraestrutura em paralelo à pesquisa | Git, Python, SQLite, configurações e controle de gastos | Parcial. Contratos, cálculo de margem e testes locais disponíveis |
 | 2 | Implementar o MVP em duas entregas | Market Research JP local, depois integração com Coordenador e Financeiro | Proposta documentada. Implementação pendente |
 | 3 | Rotinas semiautônomas | Logs, agendamento, relatórios, aprovação | Pendente |
-| 4 | Produção física | Impressora, 3 protótipos e 3 SKUs testados | Pendente |
+| 4 | Produção física | Impressora, 3 protótipos e 3 SKUs testados | [Conceitos visuais disponíveis](PRODUCT_CONCEPTS.md). CAD, fabricação e testes pendentes |
 | 5 | Primeiras vendas | Dados reais de 10–20 pedidos e revisão de margens | Pendente |
 | 6 | Expansão | Marketing, Vendas, Produto e Dados; novos canais | Pendente |
 

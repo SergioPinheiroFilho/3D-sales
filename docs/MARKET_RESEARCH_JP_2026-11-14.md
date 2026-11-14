@@ -44,6 +44,8 @@ A pesquisa Bandai Namco registrou Gundam entre as compras de 54,4% dos 500 usuá
 
 ## Próximas ações
 
+Os [conceitos visuais e materiais propostos](PRODUCT_CONCEPTS.md) detalham os quatro produtos recomendados nesta triagem.
+
 1. Medir uma cópia da edição revisada de Splendor e desenhar o primeiro módulo com parâmetros editáveis. Registrar o desempenho do arranjo original como referência.
 2. Coletar comparáveis adicionais com preço, largura, espessura embalada e estado. Usar buscas como `宝石の煌き トークントレイ`, `ねんどろいど 台座 名入れ` e `ガンプラ 1/144 展示台`. Registrar data, canal e evidência de transação separadamente.
 3. Após autorização para contato, validar com colecionadores a preferência entre plataforma modular, plaqueta individual e base fornecida pelo fabricante. Testar cores e texto personalizado antes de fixar o escopo.

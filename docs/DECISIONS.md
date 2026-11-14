@@ -15,3 +15,4 @@
 | 2026-11-14 | Contratos Python e cálculo determinístico em JPY | Base local implementada com testes; revisão pendente |
 | 2026-11-14 | Começar a implementação do Market Research JP com coleta manual e fluxo local | Proposta técnica |
 | 2026-11-14 | Priorizar uma bandeja de fichas para Splendor revisado na primeira rodada de CAD | Recomendação da [triagem Market Research JP](MARKET_RESEARCH_JP_2026-11-14.md). Encaixe, custos e demanda paga pendentes de validação |
+| 2026-11-14 | Testar produção sob encomenda no BOOTH e reservar a Mercari para unidades prontas | Recomendação operacional nos [conceitos de produto](PRODUCT_CONCEPTS.md) |
