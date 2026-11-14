@@ -1,0 +1,2 @@
+# Adicionar dependências após definir a implementação do MVP.
+# Ex.: openai-agents, python-dotenv, pydantic, pytest
