@@ -1,5 +1,11 @@
 # Registro de decisões
 
+## Atualização de 21 de novembro de 2026
+
+- Confirmado pelo proprietário: começar por fabricação e testes de uso próprio, com equipamentos ainda por adquirir. Avaliar a etapa comercial e a autorização aplicável depois da validação e antes de iniciar vendas.
+- Ideia do proprietário: lava iluminada vestível inspirada no Akainu.
+- Proposta técnica: começar por cupom de difusão e uma placa de antebraço com LEDs endereçáveis. [Pesquisa e candidatos de cosplay](COSPLAY_RESEARCH_2026-11-21.md).
+
 | Data | Decisão | Estado |
 |---|---|---|
 | 2026-11-14 | Negócio de impressão 3D no Japão para renda extra | Confirmada |

@@ -13,6 +13,8 @@
 | 6 | Expansão | Marketing, Vendas, Produto e Dados; novos canais | Pendente |
 
 ## Próximas tarefas
+
+Foi adicionada uma [pesquisa de cosplay e efeito de lava](COSPLAY_RESEARCH_2026-11-21.md). O antebraço iluminado é um candidato de protótipo para uso próprio. A escolha de priorizá-lo sobre os organizadores permanece aberta.
 1. Revisar a migração local e integrar os arquivos ao histórico do `main` antes de publicar.
 2. Implementar o fluxo local do Market Research JP, com entrada manual, persistência e ranking reproduzível.
 3. Aprofundar o levantamento com 5 oportunidades de jogos de tabuleiro e 5 de action figures, comparáveis e custos. A triagem inicial de modelismo já está documentada.
