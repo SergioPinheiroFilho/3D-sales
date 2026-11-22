@@ -1,5 +1,10 @@
 # Registro de decisões
 
+## Atualização de 22 de novembro de 2026
+
+- Confirmado pelo proprietário: aquisição de Bambu Lab A1 mini usada por ¥20.000; pequena quantidade de PLA preto disponível.
+- Proposta: executar testes pequenos de primeira camada, encaixe e aplicação, conforme [sequência inicial](PRINT_TESTS.md). Resultados físicos ainda pendentes.
+
 ## Atualização de 21 de novembro de 2026
 
 - Confirmado pelo proprietário: começar por fabricação e testes de uso próprio, com equipamentos ainda por adquirir. Avaliar a etapa comercial e a autorização aplicável depois da validação e antes de iniciar vendas.

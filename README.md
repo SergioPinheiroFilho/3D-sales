@@ -2,7 +2,7 @@
 
 Projeto de renda extra com impressão 3D FDM no Japão, apoiado por uma equipe semiautônoma de agentes OpenAI.
 
-**Estado em 2026-11-14.** Planejamento e base Python local. A compra da impressora segue sem confirmação. Pesquisa, protótipos, vendas, integração com API e operação dos agentes seguem pendentes.
+**Estado em 2026-11-22.** Bambu Lab A1 mini usada adquirida por ¥20.000, conforme informado pelo proprietário. Pequena quantidade de PLA preto disponível. Triagens de mercado documentadas e base Python local preparada. Protótipos físicos, vendas, integração com API e operação dos agentes seguem pendentes.
 
 ## Comece aqui
 

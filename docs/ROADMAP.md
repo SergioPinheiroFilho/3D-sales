@@ -1,6 +1,6 @@
 # Roadmap de implementação
 
-**Status em 2026-11-14.** Documentação consolidada e base Python local disponível. A pesquisa de mercado permanece pendente.
+**Status em 2026-11-22.** Triagens documentais disponíveis e base Python local preparada. A1 mini adquirida, conforme relato do proprietário. Iniciar testes físicos de uso próprio.
 
 | Etapa | Objetivo | Entregável | Status |
 |---|---|---|---|
@@ -8,14 +8,14 @@
 | 1 | Preparar infraestrutura em paralelo à pesquisa | Git, Python, SQLite, configurações e controle de gastos | Parcial. Contratos, cálculo de margem e testes locais disponíveis |
 | 2 | Implementar o MVP em duas entregas | Market Research JP local, depois integração com Coordenador e Financeiro | Proposta documentada. Implementação pendente |
 | 3 | Rotinas semiautônomas | Logs, agendamento, relatórios, aprovação | Pendente |
-| 4 | Produção física | Impressora, 3 protótipos e 3 SKUs testados | [Conceitos visuais disponíveis](PRODUCT_CONCEPTS.md). CAD, fabricação e testes pendentes |
+| 4 | Produção física | Impressora, 3 protótipos e 3 SKUs testados | A1 mini adquirida. [Sequência inicial de testes](PRINT_TESTS.md) proposta. Fabricação e validação pendentes |
 | 5 | Primeiras vendas | Dados reais de 10–20 pedidos e revisão de margens | Pendente |
 | 6 | Expansão | Marketing, Vendas, Produto e Dados; novos canais | Pendente |
 
 ## Próximas tarefas
 
 Foi adicionada uma [pesquisa de cosplay e efeito de lava](COSPLAY_RESEARCH_2026-11-21.md). O antebraço iluminado é um candidato de protótipo para uso próprio. A escolha de priorizá-lo sobre os organizadores permanece aberta.
-1. Revisar a migração local e integrar os arquivos ao histórico do `main` antes de publicar.
+1. Conferir a A1 mini e executar os [testes iniciais com PLA](PRINT_TESTS.md).
 2. Implementar o fluxo local do Market Research JP, com entrada manual, persistência e ranking reproduzível.
 3. Aprofundar o levantamento com 5 oportunidades de jogos de tabuleiro e 5 de action figures, comparáveis e custos. A triagem inicial de modelismo já está documentada.
 4. Selecionar até três protótipos com base na pesquisa. Após aprovação e acesso a uma impressora, medir material, tempo de impressão, embalagem e frete.
