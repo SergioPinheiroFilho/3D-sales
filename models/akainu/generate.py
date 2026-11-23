@@ -8,8 +8,9 @@ import zlib
 import numpy as np
 
 
-def build_shell(length, wrist_radius, elbow_radius, arc_degrees, rows, columns):
+def build_shell(length, wrist_radius, elbow_radius, arc_degrees, rows, columns, start=0.0, end=1.0):
     u, v = np.meshgrid(np.linspace(0, 1, rows), np.linspace(-1, 1, columns), indexing="ij")
+    u = start + (end - start) * u
     angle = v * np.radians(arc_degrees / 2)
     radius = wrist_radius + (elbow_radius - wrist_radius) * u
     # Offset centres create interleaved molten lobes along the forearm.
@@ -29,6 +30,7 @@ def build_shell(length, wrist_radius, elbow_radius, arc_degrees, rows, columns):
     count = rows * columns
     vertices = np.concatenate((outer.reshape(-1, 3), inner.reshape(-1, 3)))
     vertices[:, 2] -= vertices[:, 2].min()
+    vertices[:, 1] -= vertices[:, 1].min()
     faces = []
     for row in range(rows - 1):
         for column in range(columns - 1):
@@ -88,14 +90,14 @@ def save_mesh(directory, name, vertices, faces):
 
 
 def save_preview(directory):
-    vertices, faces = build_shell(150, 30, 43, 140, 76, 51)
+    vertices, faces = build_shell(230, 38, 58, 140, 76, 51)
     # Orthographic illustration of the actual mesh, with illustrative surface colours.
     rotation_x = np.array([[1, 0, 0], [0, 0.75, -0.66144], [0, 0.66144, 0.75]])
     rotation_z = np.array([[0.92, -0.392, 0], [0.392, 0.92, 0], [0, 0, 1]])
     transformed = (vertices - vertices.mean(axis=0)) @ rotation_z.T @ rotation_x.T
     pixels = np.full((800, 800, 3), (231, 233, 236), dtype=np.uint8)
     depth = np.full((800, 800), -np.inf)
-    projected = transformed[:, :2] * 4.0 + 400
+    projected = transformed[:, :2] * 2.8 + 400
     for face in faces:
         points = projected[face]
         low = np.maximum(np.floor(points.min(axis=0)).astype(int), 0)
@@ -126,7 +128,9 @@ if __name__ == "__main__":
     directory = Path(__file__).resolve().parent
     reports = {}
     for name, parameters in {
-        "forearm_concept": (150, 30, 43, 140, 151, 101),
+        "forearm_concept": (230, 38, 58, 140, 151, 101),
+        "forearm_wrist": (230, 38, 58, 140, 81, 101, 0.0, 0.5),
+        "forearm_elbow": (230, 38, 58, 140, 81, 101, 0.5, 1.0),
         "magma_sample": (50, 35, 35, 65, 71, 61),
     }.items():
         vertices, faces = build_shell(*parameters)

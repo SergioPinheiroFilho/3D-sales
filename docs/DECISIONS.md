@@ -2,6 +2,8 @@
 
 ## Atualização de 23 de novembro de 2026
 
+- Medidas informadas para o modelo: antebraço de 230 mm, diâmetro maior de 110 mm e punho de 70 mm. Modelo ajustado com 3 mm radiais de folga provisória e dividido em duas metades de 115 mm. União entre metades e ajuste físico pendentes.
+
 - Base geométrica criada em STL/OBJ para amostra de bancada e antebraço com dimensões provisórias. [Arquivos e limitações](../models/akainu/README.md). Ajuste ao usuário e testes de impressão pendentes.
 
 - Direção visual do proprietário para o Akainu: magma vermelho sobreposto ao braço, com volumes orgânicos. [Conceito ilustrado](COSPLAY_RESEARCH_2026-11-21.md). Construção segmentada e acabamento translúcido são propostas a testar.

@@ -2,11 +2,31 @@
   "forearm_concept": {
     "triangles": 61000,
     "closed": true,
-    "volume_mm3": 59616.8,
+    "volume_mm3": 118499.9,
     "bounds_mm": [
-      84.57,
-      150.0,
-      36.52
+      112.76,
+      230.0,
+      48.38
+    ]
+  },
+  "forearm_wrist": {
+    "triangles": 32720,
+    "closed": true,
+    "volume_mm3": 53677.8,
+    "bounds_mm": [
+      94.67,
+      115.0,
+      42.37
+    ]
+  },
+  "forearm_elbow": {
+    "triangles": 32720,
+    "closed": true,
+    "volume_mm3": 64825.6,
+    "bounds_mm": [
+      112.76,
+      115.0,
+      44.96
     ]
   },
   "magma_sample": {
