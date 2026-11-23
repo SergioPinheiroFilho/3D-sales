@@ -2,6 +2,8 @@
 
 ## Atualização de 23 de novembro de 2026
 
+- Base geométrica criada em STL/OBJ para amostra de bancada e antebraço com dimensões provisórias. [Arquivos e limitações](../models/akainu/README.md). Ajuste ao usuário e testes de impressão pendentes.
+
 - Direção visual do proprietário para o Akainu: magma vermelho sobreposto ao braço, com volumes orgânicos. [Conceito ilustrado](COSPLAY_RESEARCH_2026-11-21.md). Construção segmentada e acabamento translúcido são propostas a testar.
 
 ## Atualização de 22 de novembro de 2026

@@ -1,0 +1,22 @@
+{
+  "forearm_concept": {
+    "triangles": 61000,
+    "closed": true,
+    "volume_mm3": 59616.8,
+    "bounds_mm": [
+      84.57,
+      150.0,
+      36.52
+    ]
+  },
+  "magma_sample": {
+    "triangles": 17320,
+    "closed": true,
+    "volume_mm3": 8859.1,
+    "bounds_mm": [
+      40.11,
+      50.0,
+      14.09
+    ]
+  }
+}

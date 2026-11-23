@@ -14,6 +14,8 @@
 
 ## Próximas tarefas
 
+O [modelo inicial de magma](../models/akainu/README.md) está disponível em STL/OBJ. Próximo teste físico proposto: fatiar e imprimir a amostra de 50 mm, conferir relevo e ajustar espessura para iluminação.
+
 Foi adicionada uma [pesquisa de cosplay e efeito de lava](COSPLAY_RESEARCH_2026-11-21.md). O antebraço iluminado é um candidato de protótipo para uso próprio. A escolha de priorizá-lo sobre os organizadores permanece aberta.
 1. Conferir a A1 mini e executar os [testes iniciais com PLA](PRINT_TESTS.md).
 2. Implementar o fluxo local do Market Research JP, com entrada manual, persistência e ranking reproduzível.
