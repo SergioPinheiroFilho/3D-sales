@@ -6,6 +6,10 @@ Criado em 23 de novembro de 2026. Modelo inicial com volumes orgânicos sobre um
 
 ## Arquivos
 
+- `lava_sketch_plate.FCStd` — placa reta de 150 × 150 × 2 mm e esboço nativo Sketcher traçado a partir das faixas laranja da imagem fornecida. Abrir no FreeCAD e dar duplo clique em `Lava - linhas centrais editaveis` para editar. A placa é um objeto Box com dimensões editáveis. A imagem retangular foi preservada na proporção original, com desenho de 140 mm de largura centralizado na placa. O esboço fica 0,05 mm acima da face superior para facilitar visualização.
+- `lava_sketch_preview.png` — prévia dos eixos extraídos da imagem. O traçado automático simplifica curvas em segmentos e descarta pequenos fragmentos. As linhas são geometria normal, livres e sem restrições, para permitir edição. Não são linhas de construção azuis do Sketcher. Há ramificações abertas; fechar os contornos antes de extrudar áreas. Os pontos coincidentes visualmente podem exigir restrições de coincidência após edição.
+- `trace_lava.py` — gerador do documento, executado com o Python do FreeCAD 1.0 e suas bibliotecas NumPy, SciPy e Pillow. Recebe o caminho da imagem como argumento. O documento foi salvo e reaberto para conferir a contagem de geometrias.
+
 - `forearm_concept.stl` e `.obj` — referência completa de 230 mm de comprimento, arco de 140 graus, raio interno variando de 38 a 58 mm. Aberta nas laterais e extremidades, com parede fechada em toda a borda. O comprimento supera a mesa da A1 mini na orientação longitudinal.
 - `forearm_wrist.stl` e `forearm_elbow.stl` — metades de 115 mm para a A1 mini, também disponíveis em OBJ. A divisão é plana, com bordas adjacentes. A união e as fixações precisam ser projetadas após teste das peças. Não há encaixe mecânico entre as metades nesta versão.
 - `magma_sample.stl` e `.obj` — amostra de aproximadamente 40,11 × 50 × 14,09 mm para começar os testes.

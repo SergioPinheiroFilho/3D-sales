@@ -2,6 +2,8 @@
 
 ## Atualização de 23 de novembro de 2026
 
+- A pedido do proprietário, criado esboço editável no FreeCAD a partir das linhas laranja da referência, sobre placa quadrada reta. Dimensão provisória de 150 mm e preservação da proporção da imagem são escolhas técnicas. [Arquivo e instruções](../models/akainu/README.md).
+
 - Medidas informadas para o modelo: antebraço de 230 mm, diâmetro maior de 110 mm e punho de 70 mm. Modelo ajustado com 3 mm radiais de folga provisória e dividido em duas metades de 115 mm. União entre metades e ajuste físico pendentes.
 
 - Base geométrica criada em STL/OBJ para amostra de bancada e antebraço com dimensões provisórias. [Arquivos e limitações](../models/akainu/README.md). Ajuste ao usuário e testes de impressão pendentes.
