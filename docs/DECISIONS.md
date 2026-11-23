@@ -1,5 +1,9 @@
 # Registro de decisões
 
+## Atualização de 23 de novembro de 2026
+
+- Direção visual do proprietário para o Akainu: magma vermelho sobreposto ao braço, com volumes orgânicos. [Conceito ilustrado](COSPLAY_RESEARCH_2026-11-21.md). Construção segmentada e acabamento translúcido são propostas a testar.
+
 ## Atualização de 22 de novembro de 2026
 
 - Confirmado pelo proprietário: aquisição de Bambu Lab A1 mini usada por ¥20.000; pequena quantidade de PLA preto disponível.

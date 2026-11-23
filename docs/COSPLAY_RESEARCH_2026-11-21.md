@@ -53,6 +53,14 @@ Essa ordem é uma recomendação de prototipagem. Presença em reportagem não m
 
 ## Akainu — lava que parece se mover
 
+### Direção visual de 23 de novembro de 2026
+
+O proprietário forneceu três referências do anime e propôs magma mais vermelho sobreposto ao braço. O conceito passa a usar volumes arredondados de magma vermelho, ilhas de crosta preta e regiões luminosas laranja. A imagem abaixo é uma visualização gerada para orientar o desenho. Encaixes, fixações e circuito precisam de desenvolvimento.
+
+![Conceito de magma vermelho sobre o antebraço e dorso da mão](conceitos/akainu-magma-arm.png)
+
+Proposta de construção: cascas removíveis divididas em segmentos compatíveis com o volume da A1 mini, com peça do dorso da mão separada do antebraço e folga para o punho. Testar uma pequena amostra de material translúcido com pintura vermelha translúcida e áreas pretas opacas antes de escolher o acabamento. Medir transmissão de luz, aderência e aparência do material com a luz desligada. Usar LEDs endereçáveis com gradientes que percorrem as regiões luminosas. O primeiro ensaio permanece em bancada, seguido por uma placa de antebraço.
+
 O usuário propôs reproduzir o efeito de magma do Sakazuki/Akainu. A ficha oficial confirma a habilidade Magu Magu no Mi. A pesquisa atual não demonstrou que Akainu esteja entre os personagens mais usados nos eventos examinados. Ele é um candidato técnico para demonstrar o efeito. [ONE PIECE oficial](https://one-piece.com/character/Sakazuki/index.html)
 
 ### Primeiro módulo proposto
