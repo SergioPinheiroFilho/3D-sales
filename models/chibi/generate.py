@@ -80,7 +80,7 @@ for index, shape in enumerate(display_shapes):
         brightness = 0.55 + 0.45 * abs(float(normal @ np.array([0.2, -0.5, 0.84])))
         base = np.array([52, 57, 63]) if index == 0 else np.array([226, 225, 214])
         colour = tuple((base * brightness).astype(int))
-        xy = [(float(p[0] * 5 + 450), float(p[1] * 5 + 300)) for p in triangle]
+        xy = [(float(p[0] * 5 + 300), float(p[1] * 5 + 430)) for p in triangle]
         polygons.append((float(triangle[:, 2].mean()), xy, colour))
 for _, polygon, colour in sorted(polygons, key=lambda item: item[0]):
     draw.polygon(polygon, fill=colour)
@@ -88,7 +88,7 @@ for y_offset, height in ((0, 8), (50, 38)):
     angle = np.linspace(0, 2 * np.pi, 120)
     circle = np.column_stack((24 + 15 * np.cos(angle), y_offset + 24 + 15 * np.sin(angle),
                               np.full_like(angle, height + 0.1))) @ rotation.T
-    draw.line([(float(p[0] * 5 + 450), float(p[1] * 5 + 300)) for p in circle], fill='#d28738', width=3)
+    draw.line([(float(p[0] * 5 + 300), float(p[1] * 5 + 430)) for p in circle], fill='#d28738', width=3)
 image.save(DIRECTORY / 'preview.png')
 (DIRECTORY / 'validation.json').write_text(json.dumps(reports, indent=2) + '\n', encoding='utf-8')
 print(json.dumps(reports))
