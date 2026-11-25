@@ -1,0 +1,20 @@
+{
+  "Front": {
+    "solid": true,
+    "volume_mm3": 9100.8,
+    "size_mm": [
+      48.0,
+      48.0,
+      8.0
+    ]
+  },
+  "Rear": {
+    "solid": true,
+    "volume_mm3": 22233.6,
+    "size_mm": [
+      48.0,
+      48.0,
+      38.0
+    ]
+  }
+}

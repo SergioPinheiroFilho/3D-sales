@@ -1,5 +1,10 @@
 # Registro de decisões
 
+## Atualização de 25 de novembro de 2026
+
+- Informado pelo proprietário: cerca de 100 g de PLA preto e um rolo inteiro de PLA branco disponíveis; figures de aproximadamente 55 mm com bases de 30 mm e saliência mediana de 1–2 mm.
+- Criado [expositor inicial editável](../models/chibi/README.md) com dois módulos de alturas distintas. Dimensões de 48 × 48 mm e alturas de 8/38 mm são propostas para teste. Impressão física pendente.
+
 ## Atualização de 23 de novembro de 2026
 
 - A pedido do proprietário, criado esboço editável no FreeCAD a partir das linhas laranja da referência, sobre placa quadrada reta. Dimensão provisória de 150 mm e preservação da proporção da imagem são escolhas técnicas. [Arquivo e instruções](../models/akainu/README.md).

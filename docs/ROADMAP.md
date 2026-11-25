@@ -14,6 +14,8 @@
 
 ## Próximas tarefas
 
+Prioridade atual do proprietário: testar o [expositor de figures chibi](../models/chibi/README.md). Modelo FreeCAD e STL disponíveis; começar pelo módulo baixo e verificar estabilidade com a base original.
+
 O [modelo inicial de magma](../models/akainu/README.md) está disponível em STL/OBJ. Próximo teste físico proposto: fatiar e imprimir a amostra de 50 mm, conferir relevo e ajustar espessura para iluminação.
 
 Foi adicionada uma [pesquisa de cosplay e efeito de lava](COSPLAY_RESEARCH_2026-11-21.md). O antebraço iluminado é um candidato de protótipo para uso próprio. A escolha de priorizá-lo sobre os organizadores permanece aberta.
