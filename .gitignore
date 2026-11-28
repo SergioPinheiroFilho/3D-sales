@@ -12,6 +12,7 @@ __pycache__/
 .idea/
 .vscode/
 data/*
+models/akainu/v2/
 !data/.gitkeep
 *.sqlite
 *.sqlite3-*

@@ -1,5 +1,9 @@
 # Registro de decisões
 
+## Atualização de 28 de novembro de 2026
+
+- A pedido do proprietário, criada versão local do braço com relevo amostrado dos STL de lava e mud fornecidos. Mantidos ajuste interno e divisão em duas metades. [Método, procedência e validação](../models/akainu/TEXTURE_V2.md).
+
 ## Atualização de 25 de novembro de 2026
 
 - Informado pelo proprietário: cerca de 100 g de PLA preto e um rolo inteiro de PLA branco disponíveis; figures de aproximadamente 55 mm com bases de 30 mm e saliência mediana de 1–2 mm.

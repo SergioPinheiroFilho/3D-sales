@@ -14,6 +14,8 @@
 
 ## Próximas tarefas
 
+Disponível localmente a [textura v2 do antebraço](../models/akainu/TEXTURE_V2.md), derivada das malhas de lava e mud fornecidas. Imprimir primeiro a amostra pequena e avaliar relevo e difusão antes das metades.
+
 Prioridade atual do proprietário: testar o [expositor de figures chibi](../models/chibi/README.md). Modelo FreeCAD e STL disponíveis; começar pelo módulo baixo e verificar estabilidade com a base original.
 
 O [modelo inicial de magma](../models/akainu/README.md) está disponível em STL/OBJ. Próximo teste físico proposto: fatiar e imprimir a amostra de 50 mm, conferir relevo e ajustar espessura para iluminação.
